@@ -118,4 +118,3 @@ Additionally, I possess strong knowledge in data handling and related tools, inc
   </tr>
 </table>
 
-![Clayton GitHub Stats](https://github-readme-stats.vercel.app/api?username=ClaytonSdS&show_icons=true&theme=tokyonight&hide_border=true)
