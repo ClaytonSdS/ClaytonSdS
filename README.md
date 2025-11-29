@@ -1,5 +1,5 @@
-# **Clayton Silva dos Santos** 🖥🤖  **<img align="right" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="400">**
-
+# **Clayton Silva dos Santos** 🖥🤖  **<img align="right" src="https://user-images.githubusercontent.com/74038190/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png" width="400">**
+<!-- https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif -->
 
 I am a Computer Scientist student specializing in **artificial intelligence** and **machine learning**, with solid experience in developing ML models using frameworks such as **PyTorch** and **Keras**. My expertise includes techniques like **Transfer Learning**, **Fine-Tuning**, and **Retrieval-Augmented Generation (RAG)**.
 
@@ -118,3 +118,4 @@ Additionally, I possess strong knowledge in data handling and related tools, inc
   </tr>
 </table>
 
+![Clayton GitHub Stats](https://github-readme-stats.vercel.app/api?username=ClaytonSdS&show_icons=true&theme=tokyonight&hide_border=true)
