@@ -23,7 +23,7 @@ Additionally, I possess strong knowledge in data handling and related tools, inc
 
 ---
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
 
@@ -47,7 +47,7 @@ Additionally, I possess strong knowledge in data handling and related tools, inc
 
 ---
 
-## 🚀 Projects
+## Projects
 
 ### 🧠 Machine Learning
 
