@@ -54,7 +54,7 @@ Additionally, I possess strong knowledge in data handling and related tools, inc
 <table>
   <tr>
     <td>
-      <div style="background:#FFB84C; padding:6px; font-weight:bold; border-radius:5px; text-align:center;">2D Image Regression</div>
+      <div style="background:#FFB84C; padding:6px; font-weight:bold; border-radius:5px; text-align:center;">2D Image Regression/Object Detection</div>
       <a href="https://github.com/ClaytonSdS/VisionGauge"><strong>Vision Gauge - U-tube manometer detection/reader</strong></a>
       <p>Transfer Learning, Albumentations, PyTorch, CNN, Residual Blocks, Finetunning, ETL, OpenCV</p>
     </td>
