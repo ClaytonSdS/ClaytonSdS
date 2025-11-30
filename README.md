@@ -1,4 +1,4 @@
-# **Clayton Silva dos Santos** 🖥🤖  **<img align="right" src="https://user-images.githubusercontent.com/74038190/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png" width="400">**
+# **Clayton Silva dos Santos** 🖥🤖  **<img align="right" src="figs/notebook_1.png" width="400">**
 <!-- https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif -->
 
 I am a Computer Scientist student specializing in **artificial intelligence** and **machine learning**, with solid experience in developing ML models using frameworks such as **PyTorch** and **Keras**. My expertise includes techniques like **Transfer Learning**, **Fine-Tuning**, and **Retrieval-Augmented Generation (RAG)**.
@@ -17,6 +17,20 @@ Additionally, I possess strong knowledge in data handling and related tools, inc
        style="width:15px; height:15px; display:inline-block; vertical-align:middle; object-fit:contain; margin:0;">
   <span style="display:inline-block; vertical-align:middle; margin-left:2px;">
     <a href="https://learn.microsoft.com/api/credentials/share/pt-br/ClaytonSilvadosSantos-3005/118CFB27A29A4A19?sharingId"><strong>Microsoft Certified: Azure AI Fundamentals (AI-900)</strong></a>
+  </span>
+</div>
+<div style="display:inline-flex; align-items:center; gap:8px; padding:6px 10px; border-radius:8px; background:#f5f5f5; line-height:1;">
+  <img alt="SENAI badge" src="figs/senai_logo1.png"
+       style="width:15px; height:15px; display:inline-block; vertical-align:middle; object-fit:contain; margin:0;">
+  <span style="display:inline-block; vertical-align:middle; margin-left:2px;">
+    <a href="https://www.sp.senai.br/consulta-certificado?qrcode=00035588/6984972"><strong>Privacidade e Proteção de Dados - LGPD</strong></a>
+  </span>
+</div>
+<div style="display:inline-flex; align-items:center; gap:8px; padding:6px 10px; border-radius:8px; background:#f5f5f5; line-height:1;">
+  <img alt="SENAI badge" src="figs/senai_logo1.png"
+       style="width:15px; height:15px; display:inline-block; vertical-align:middle; object-fit:contain; margin:0;">
+  <span style="display:inline-block; vertical-align:middle; margin-left:2px;">
+    <a href="https://www.sp.senai.br/consulta-certificado?qrcode=00042104/6984972"><strong>Ética na Inteligência Artificial</strong></a>
   </span>
 </div>
 
