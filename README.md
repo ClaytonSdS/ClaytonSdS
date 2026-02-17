@@ -1,13 +1,12 @@
 # **Clayton Silva dos Santos** 🖥🤖  **<img align="right" src="figs/notebook_1.png" width="400">**
 <!-- https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif -->
 
-I am a Computer Scientist student specializing in **artificial intelligence** and **machine learning**, with solid experience in developing ML models using frameworks such as **PyTorch** and **Keras**. My expertise includes techniques like **Transfer Learning**, **Fine-Tuning**, and **Retrieval-Augmented Generation (RAG)**.
+I am a Computer Science student specializing in **Artificial Intelligence** and **Machine Learning**, with experience developing and deploying ML models using frameworks such as **PyTorch** and **TensorFlow**. I have expertise in **Machine Learning system design** and **model optimization techniques**, including **weight pruning** and **structural pruning**.  
 
-I am capable of designing and implementing various neural network architectures, including **Convolutional Neural Networks (CNNs)**, **Multilayer Perceptrons (MLPs)**, **3D Convolutional Networks (CONV3D)**, **Transformers**, and **Vision Transformers (ViTs)**.
+I have implemented neural network architectures including **Convolutional Neural Networks (CNNs)**, **Multilayer Perceptrons (MLPs)**, **3D Convolutional Networks (Conv3D)**, **Transformers**, and **Vision Transformers (ViTs)**, delivering solutions for image, text, and multimodal data.  
 
-I also have experience deploying and integrating AI models through cloud services—primarily **Microsoft Azure**—using tools such as **Cognitive Services Pipelines**, **Form Recognizer**, **Azure Automated Machine Learning**, **Azure Designer**, **RAG workflows**, **chatbots**, and other AI-powered solutions.
+I also have experience in deploying and integrating AI models through **cloud platforms (Microsoft Azure)**, as well as via **API requests**, leveraging tools such as **Cognitive Services Pipelines**, **Form Recognizer**, **Azure Automated Machine Learning**, **Azure Designer**, **RAG workflows**, and **AI-powered chatbots** to deliver scalable, production-ready solutions.
 
-Additionally, I possess strong knowledge in data handling and related tools, including **SQL**, **Python**, **data extraction and preprocessing**, **normalization**, **Albumentations**, **SciPy**, and other components essential for **end-to-end machine learning workflows**.
 
 ---
 ## Certifications
