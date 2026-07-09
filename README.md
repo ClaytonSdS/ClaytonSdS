@@ -12,6 +12,13 @@ I also have experience in deploying and integrating AI models through **cloud pl
 ## Certifications
 
 <div style="display:inline-flex; align-items:center; gap:8px; padding:6px 10px; border-radius:8px; background:#f5f5f5; line-height:1;">
+  <img alt="databricks badge" src="https://raw.githubusercontent.com/ClaytonSdS/ClaytonSdS/refs/heads/main/icons/databricks.png"
+       style="width:15px; height:15px; display:inline-block; vertical-align:middle; object-fit:contain; margin:0;">
+  <span style="display:inline-block; vertical-align:middle; margin-left:2px;">
+    <a href="https://credentials.databricks.com/3a6b207d-04d8-4830-b8e4-d4034d70bfb7#acc.7guJMlyD"><strong>Databricks Fundamentals</strong></a>
+  </span>
+</div>
+<div style="display:inline-flex; align-items:center; gap:8px; padding:6px 10px; border-radius:8px; background:#f5f5f5; line-height:1;">
   <img alt="AI-900 badge" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg"
        style="width:15px; height:15px; display:inline-block; vertical-align:middle; object-fit:contain; margin:0;">
   <span style="display:inline-block; vertical-align:middle; margin-left:2px;">
@@ -40,20 +47,24 @@ I also have experience in deploying and integrating AI models through **cloud pl
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/ClaytonSdS/ClaytonSdS/refs/heads/main/icons/albumentations.png" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/ClaytonSdS/ClaytonSdS/refs/heads/main/icons/databricks.png" width="45"/>
+<img src="https://raw.githubusercontent.com/ClaytonSdS/ClaytonSdS/refs/heads/main/icons/docker.png" width="55"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/ClaytonSdS/ClaytonSdS/refs/heads/main/icons/huggingface.png" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/ClaytonSdS/ClaytonSdS/refs/heads/main/icons/mlflow.png" width="115"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
+
 </div>
 
 ---
@@ -63,24 +74,34 @@ I also have experience in deploying and integrating AI models through **cloud pl
 ### 🧠 Machine Learning
 
 <table>
+
   <tr>
     <td>
+      <div style="background:#FFB84C; padding:6px; font-weight:bold; border-radius:5px; text-align:center;">Object Detection</div>
+      <a href="https://github.com/ClaytonSdS/Wheat_Head_Detection"><strong>Wheat Head Detection using Knowledge Distillation.</strong></a>
+      <p>YOLOv5, Knowledge Distillation, MLFlow, Databricks, Pytorch, Albumentations.</p>
+    </td>
+    <td>
       <div style="background:#FFB84C; padding:6px; font-weight:bold; border-radius:5px; text-align:center;">2D Image Regression/Object Detection</div>
-      <a href="https://github.com/ClaytonSdS/VisionGauge"><strong>Vision Gauge - U-tube manometer detection/reader</strong></a>
+      <a href="https://github.com/ClaytonSdS/VisionGauge"><strong>VisionGauge: A Computer Vision Model to Detect and Read U-Tube Manometers</strong></a>
       <p>Transfer Learning, Albumentations, PyTorch, CNN, Residual Blocks, Finetunning, ETL, OpenCV</p>
     </td>
+    
+  </tr>
+  
+  <tr>
     <td>
       <div style="background:#4CAF50; padding:6px; font-weight:bold; border-radius:5px; text-align:center;">2D Image Classification</div>
       <a href="https://github.com/NeoGreenCode/SugarcaneLeafDisease"><strong>Sugarcane Leaf Disease Predictor</strong></a>
       <p>FCNN, CBAM, Xception, Residual Blocks, TensorFlow, OpenCV</p>
     </td>
-  </tr>
-  <tr>
     <td>
       <div style="background:#E14D2A; padding:6px; font-weight:bold; border-radius:5px; text-align:center;">3D Image Classification</div>
       <a href="https://github.com/NeoGreenCode/AneurysmDetection"><strong>RSNA Intracranial Aneurysm Detection</strong></a>
       <p>Transfer Learning, 3D CNN, Multilabel Classification, K-Fold, Keras, OpenCV</p>
     </td>
+  </tr>
+  <tr>
     <td>
       <div style="background:#6A5ACD; padding:6px; font-weight:bold; border-radius:5px; text-align:center;">MLP Binary Classification</div>
       <a href="https://github.com/ClaytonSdS/DataHackers2025"><strong>Modelo de Classificação Binária para Previsão de Retorno ao Presencial</strong></a>
