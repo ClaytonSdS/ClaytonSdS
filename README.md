@@ -78,7 +78,7 @@ I also have experience in deploying and integrating AI models through **cloud pl
   <tr>
     <td>
       <div style="background:#FFB84C; padding:6px; font-weight:bold; border-radius:5px; text-align:center;">Object Detection</div>
-      <a href="https://github.com/ClaytonSdS/Wheat_Head_Detection"><strong>Wheat Head Detection using Knowledge Distillation.</strong></a>
+      <a href="https://github.com/ClaytonSdS/Wheat_Head_Detection"><strong>Wheat Head Detection using Knowledge Distillation</strong></a>
       <p>YOLOv5, Knowledge Distillation, MLflow, Databricks, Pytorch, Albumentations.</p>
     </td>
     <td>
