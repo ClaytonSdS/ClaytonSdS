@@ -47,7 +47,7 @@ I also have experience in deploying and integrating AI models through **cloud pl
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
 
-<img src="https://raw.githubusercontent.com/ClaytonSdS/ClaytonSdS/refs/heads/main/icons/albumentations.png" width="55"/>
+<img src="https://raw.githubusercontent.com/ClaytonSdS/ClaytonSdS/refs/heads/main/icons/albumentations.png" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
