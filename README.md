@@ -142,7 +142,7 @@ I also have experience in deploying and integrating AI models through **cloud pl
   <tr>
      <td>
       Santos, C. S. dos, & Arima, M. N. (2026).<br>
-      <a href="https://doi.org/10.23900/artefactum.v25i5.3462 style="text-decoration:none; color:inherit;">
+      <a href="https://doi.org/10.23900/artefactum.v25i5.3462" style="text-decoration:none; color:inherit;">
         <i>VisionGauge: a computer vision model to detect and read U-tube manometers.</i>
       </a><br>
       Artefactum - Revista De Estudos Interdisciplinares, v. 25 (n. 5), E3462, Qualis A3. DOI: 10.23900
