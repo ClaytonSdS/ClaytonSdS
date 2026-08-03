@@ -112,6 +112,31 @@ I also have experience in deploying and integrating AI models through **cloud pl
 
 ---
 
+
+### 📚 Research
+<table>
+  <tr>
+     <td>
+      Santos, C. S. dos, & Arima, M. N. (2026).<br>
+      <a href="https://doi.org/10.23900/artefactum.v25i5.3462" style="text-decoration:none; color:inherit;">
+        <i>VisionGauge: a computer vision model to detect and read U-tube manometers.</i>
+      </a><br>
+      Artefactum - Revista De Estudos Interdisciplinares, v. 25 (n. 5), E3462, Qualis A3. DOI: 10.23900
+    </td>
+    <td>
+      Santos, C. S. dos, Arima, M. N., & Almeida, M. A. D. (2025).<br>
+      <a href="https://doi.org/10.54033/cadpedv22n12-312" style="text-decoration:none; color:inherit;">
+        <i>Development of a pipeline network simulator and experimental validation on a test bench.</i>
+      </a><br>
+      Caderno Pedagógico, v. 22 (n. 12), E21100, Qualis A2. DOI: 10.54033
+    </td>
+   
+  </tr>
+
+</table>
+
+---
+
 ### 💻 Software Development (POC)
 
 <table>
@@ -136,26 +161,3 @@ I also have experience in deploying and integrating AI models through **cloud pl
 * <strong>Banco de Dados E-commerce</strong>
 
 ---
-
-### 📚 Research
-<table>
-  <tr>
-     <td>
-      Santos, C. S. dos, & Arima, M. N. (2026).<br>
-      <a href="https://doi.org/10.23900/artefactum.v25i5.3462" style="text-decoration:none; color:inherit;">
-        <i>VisionGauge: a computer vision model to detect and read U-tube manometers.</i>
-      </a><br>
-      Artefactum - Revista De Estudos Interdisciplinares, v. 25 (n. 5), E3462, Qualis A3. DOI: 10.23900
-    </td>
-    <td>
-      Santos, C. S. dos, Arima, M. N., & Almeida, M. A. D. (2025).<br>
-      <a href="https://doi.org/10.54033/cadpedv22n12-312" style="text-decoration:none; color:inherit;">
-        <i>Development of a pipeline network simulator and experimental validation on a test bench.</i>
-      </a><br>
-      Caderno Pedagógico, v. 22 (n. 12), E21100, Qualis A2. DOI: 10.54033
-    </td>
-   
-  </tr>
-
-</table>
-
